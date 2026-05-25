@@ -4,4 +4,4 @@ A student Management System using Object Oriented Programming.  It'll be able to
 3. Search students
 4. Update student Information
 5. Delete Students
-6. 
+6. exit code
